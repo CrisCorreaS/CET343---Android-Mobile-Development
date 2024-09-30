@@ -21,7 +21,7 @@ By the end of this module, I should be able to:
 ## 🛠️ Technologies Used
 - Android Studio: The official IDE for Android development.
 - Java: The primary programming language used in this course.
-- ML: For designing UI layouts.
+- XML: For designing UI layouts.
 
 ## 🚀 Getting Started
 To get started with this repository, follow these steps:
