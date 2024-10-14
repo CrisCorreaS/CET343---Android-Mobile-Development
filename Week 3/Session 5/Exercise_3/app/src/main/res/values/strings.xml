@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise_3</string>
+    <string name="go_other_activity">Go to other activity</string>
+    <string name="email_message">EMAIL THE MESSAGE</string>
+    <string name="send_message">"SEND A SMS MESSAGE "</string>
+    <string name="type_your_message_here">Type your message here</string>
+</resources>

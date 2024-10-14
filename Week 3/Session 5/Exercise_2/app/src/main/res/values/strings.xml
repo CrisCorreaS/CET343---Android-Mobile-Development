@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="go_other_activity">GO TO OTHER ACTIVITY</string>
+    <string name="send_message">SEND TEXT MESSAGE</string>
+    <string name="email_message">EMAIL MESSAGE</string>
+    <string name="type_your_message_here">Type your message here</string>
+</resources>
