@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="toast_message_1">Generate a Toast Message saying something</string>
+    <string name="toast_message_2">Generate a Different Toast Message</string>
+    <string name="alertdialog_box">Generate an AlertDialog Box</string>
+    <string name="alertdialog_box_message">Generate an AlertDialog Box Message</string>
+</resources>
