@@ -1,0 +1,44 @@
+# Gradle files
+gradle/
+*.gradle
+gradlew*
+gradle.properties
+build/
+settings.gradle*
+build.gradle*
+
+# Local configuration file (sdk path, etc)
+/**/local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# Progruard Rules
+proguard*
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# Other
+target/
