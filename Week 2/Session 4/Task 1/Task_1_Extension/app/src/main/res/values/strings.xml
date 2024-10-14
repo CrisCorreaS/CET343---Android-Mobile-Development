@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task_1_My_First_App_2</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="enter_password">Enter password</string>
+    <string name="accept_terms">Accept terms</string>
+    <string name="enable_notifications">Light Mode</string>
+    <string-array name="spinner_items">
+        <item>Option "A"</item>
+        <item>Option "B"</item>
+        <item>Option "C"</item>
+    </string-array>
+    <string name="button_send">Send</string>
+</resources>

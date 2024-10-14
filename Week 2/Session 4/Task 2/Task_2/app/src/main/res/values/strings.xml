@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task_2</string>
+    <string name="main_activity_text">This is the MainActivity</string>
+    <string name="go_to_activity_2">Move to Activity 2</string>
+    <string name="go_to_activity_3">Move to Activity 3</string>
+    <string name="go_to_activity_4">Move to Activity 4</string>
+    <string name="go_to_main_activity">Move to Main Activity</string>
+    <string name="activity_2_text">This is the Activity 2</string>
+    <string name="activity_3_text">This is the Activity 3</string>
+    <string name="activity_4_text">This is Activity 4</string>
+</resources>
